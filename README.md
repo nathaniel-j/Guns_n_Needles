@@ -19,6 +19,7 @@ state vaccination rates data available [here](https://github.com/owid/covid-19-d
 
 ### Initial plot with regression line
 ![scatter](scatter_plot.png)
+
 Above we see a clear linear relationship pattern, with a few outlier exceptions.
 
 ### Comparing distributions
