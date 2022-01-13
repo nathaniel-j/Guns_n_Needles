@@ -23,4 +23,18 @@ state vaccination rates data available [here](https://github.com/owid/covid-19-d
 Above we see a clear linear relationship pattern, with a few outlier exceptions.
 
 ### Comparing distributions
-![kde](kde_analysis.png)
+![kde](kde_variations.png)
+
+Using the median gun ownership value to define "Gun Owner" and "Non-Gun Owner" states, we see a clear difference in the vaccination rate distributions, and means, between the two groups. This difference was shown to be statistically significant by T testing the group mean differences. 
+
+### Confidence Intervals
+![confidence_intervals](confidence_intervals.png)
+
+Confidence intevals show the difference in estimated population mean vaccination rates between gun owners and non-gun owners. 
+
+### Cluster analysis
+![cluster](clusters.png)
+
+While difficult to read, this chart shows how the outlying states sit outside the linear relationship in a couple of groups. This cluster analysis doesnt show much, other than that there appears to be a small handfull of states that dont seem to match my model. Some next steps that I thought would be interesting would be to see if there were any geographic, demographic, or other similarities between these states that sets them apart. Perhaps that analysis could even uncover a trend that could form an even better model than the one proposed here. 
+
+
