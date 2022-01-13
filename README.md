@@ -37,4 +37,7 @@ Confidence intevals show the difference in estimated population mean vaccination
 
 While difficult to read, this chart shows how the outlying states sit outside the linear relationship in a couple of groups. This cluster analysis doesnt show much, other than that there appears to be a small handfull of states that dont seem to match my model. Some next steps that I thought would be interesting would be to see if there were any geographic, demographic, or other similarities between these states that sets them apart. Perhaps that analysis could even uncover a trend that could form an even better model than the one proposed here. 
 
+## Conclusion:
+While using gun ownership as a proxy for an ideology that helps predict an individual's likelihood to get vaccinated for Covid-19 is interesting and does carry some merrit, this idea comes with great difficulty in obtaining significant data at the individual level and carries too much political baggage to be worth much more pursuit. 
 
+## See the full project [here](https://github.com/nathaniel-j/Guns_n_Needles/blob/main/Guns_N_Needles_update.ipynb)
