@@ -18,9 +18,9 @@ gun ownership rates data available [here](https://worldpopulationreview.com/stat
 state vaccination rates data available [here](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations) as a csv file called "us_state_vaccinations.csv"
 
 ### Initial plot with regression line
-![scatter](scatter_plot.png)
+![scatter](scatter_regress.png)
 
 Above we see a clear linear relationship pattern, with a few outlier exceptions.
 
 ### Comparing distributions
-![kde](kde.png)
+![kde](kde_analysis.png)
